@@ -1,0 +1,11 @@
+body {
+  width: 100vh;
+  background-image: url(../img/wallpaper.jpg);
+}
+
+.header-container {
+  text-align: right;
+  color: #f5be41;
+  text-decoration-line: underline;
+  text-shadow: 2px 2px 5px red;
+}
